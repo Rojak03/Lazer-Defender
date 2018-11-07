@@ -52,10 +52,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e16b85611023f824f88b39ad34b297ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypoints:
-  - {fileID: 4113820211052918, guid: 57b89a7085a85184fba3643d4e71eddf, type: 2}
-  - {fileID: 4272304052080216, guid: 57b89a7085a85184fba3643d4e71eddf, type: 2}
-  - {fileID: 4496178534922102, guid: 57b89a7085a85184fba3643d4e71eddf, type: 2}
+  waveConfig: {fileID: 11400000, guid: dcd1484f783b68a47823966fe6e5062b, type: 2}
   moveSpeed: 5
 --- !u!212 &212156791702584660
 SpriteRenderer:
