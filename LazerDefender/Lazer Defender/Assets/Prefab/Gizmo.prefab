@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 114845098686192956}
   - component: {fileID: 114375063279979870}
   - component: {fileID: 58841230715382420}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Gizmo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
