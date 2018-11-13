@@ -9866,3 +9866,65 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a0ef0366365666a47a51a8431db806b7, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1001 &2037019068
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4834591777972334, guid: 6744ec0d68a924d408c00bf02cebd384, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -2.3835003
+      objectReference: {fileID: 0}
+    - target: {fileID: 4834591777972334, guid: 6744ec0d68a924d408c00bf02cebd384, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 7.2705126
+      objectReference: {fileID: 0}
+    - target: {fileID: 4834591777972334, guid: 6744ec0d68a924d408c00bf02cebd384, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -1.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4834591777972334, guid: 6744ec0d68a924d408c00bf02cebd384, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4834591777972334, guid: 6744ec0d68a924d408c00bf02cebd384, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4834591777972334, guid: 6744ec0d68a924d408c00bf02cebd384, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4834591777972334, guid: 6744ec0d68a924d408c00bf02cebd384, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4834591777972334, guid: 6744ec0d68a924d408c00bf02cebd384, type: 2}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 198884716945246980, guid: 6744ec0d68a924d408c00bf02cebd384,
+        type: 2}
+      propertyPath: InitialModule.startSize.scalar
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 198884716945246980, guid: 6744ec0d68a924d408c00bf02cebd384,
+        type: 2}
+      propertyPath: EmissionModule.rateOverTime.scalar
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 198884716945246980, guid: 6744ec0d68a924d408c00bf02cebd384,
+        type: 2}
+      propertyPath: ShapeModule.radius.value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 198884716945246980, guid: 6744ec0d68a924d408c00bf02cebd384,
+        type: 2}
+      propertyPath: ShapeModule.radiusThickness
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6744ec0d68a924d408c00bf02cebd384, type: 2}
+  m_IsPrefabAsset: 0
